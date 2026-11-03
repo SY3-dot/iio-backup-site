@@ -14,4 +14,4 @@ It does not require access to unrelated personal files in Google Drive.
 
 Privacy
 
-Privacy Policy
+[Privacy Policy](privacy.md)
